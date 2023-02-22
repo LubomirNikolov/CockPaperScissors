@@ -1,0 +1,2 @@
+# CockPaperScissors
+Simple game
